@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Excellent new song call'd The hard-hearted lady, or, The young man dy'd for love being a relation of a yound lady that was engag'd to a seaman, and married another while he was a shipboard.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22740</idno><idno type="EEBO-CITATION">12273210</idno>
+  <idno type="VID">58375</idno>
+  <idno type="EEBO-PROQUEST">2248558679</idno>
+  
+            <idno type="STC">Wing E3820A</idno>
+            <idno type="STC">ESTC R31903</idno>
+            <idno type="OCLC">12273210</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22740)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58375)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1494:44b)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Excellent new song call'd The hard-hearted lady, or, The young man dy'd for love being a relation of a yound lady that was engag'd to a seaman, and married another while he was a shipboard.</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by T. Moore,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1684]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Magdalene College Library, Cambridge University.</note>
+                  <note>With: An answer to the the [sic] unfortunate lady who hang'd her self in dispair.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <body>
+               <div type="song">
+                  <pb facs="tcp:58375:1"/>
+                  <head>
+                     <figure>
+                        <figDesc>top border with hourglasses, crossbones, and a banner</figDesc>
+                        <p>MEMENTO MORI</p>
+                     </figure>
+                  </head>
+                  <head>An Answer to the The Unfortunate Lady, Who Hang'd her self in Dispair: Containing her Lovers Lamentation for her Untimely Destiny; Together with the Apparition of her Bleeding Ghost in his silent Chamber.</head>
+                  <opener>
+                     <hi>To the Tune of,</hi> The Languishing S<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ain. <hi>Licensed according to Order,</hi>
+                  </opener>
+                  <lg n="1">
+                     <head>I.</head>
+                     <l>VVHat dismal tydings do I hear,</l>
+                     <l>The fatal ruin of my Dear,</l>
+                     <l>Who did her dearest Life destroy,</l>
+                     <l>When she might not her Love enjoy.</l>
+                  </lg>
+                  <lg n="2">
+                     <head>II.</head>
+                     <l>Which grieves me to the very Soul,</l>
+                     <l>
+                        <gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n sorrow I her Death condole;</l>
+                     <l>No peace nor comfort can I find,</l>
+                     <l>The thoughts of her runs in my mind.</l>
+                  </lg>
+                  <lg n="3">
+                     <head>III.</head>
+                     <l>Each Night when e're I close mine Eyes,</l>
+                     <l>
+                        <gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ethinks I hear her dismal Cries,</l>
+                     <l>
+                        <gap reason="illegible" resp="#murp" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ying, my Love I dy'd for thee;</l>
+                     <l>And then her bleeding Ghost I see.</l>
+                  </lg>
+                  <lg n="4">
+                     <head>IV.</head>
+                     <l>Then with a Voice both sharp and shrill,</l>
+                     <l>She does my silent Chamber sill,</l>
+                     <l>And with a sigh and bitter groan,</l>
+                     <l>She does express her piteous moan.</l>
+                  </lg>
+                  <lg n="5">
+                     <head>V.</head>
+                     <l>Alas! alth<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ugh I did appear</l>
+                     <l>Thus in the Chamber of my Dear,</l>
+                     <l>He never wrong'd his Lover, no,</l>
+                     <l>'Twas Parents prov'd my overthrow.</l>
+                  </lg>
+                  <lg n="6">
+                     <head>VI.</head>
+                     <l>I know the tender Turtle-Doves,</l>
+                     <l>Was ne'r mo<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e constant to their Loves,</l>
+                     <l>Then thee and I has been, she cry'd,</l>
+                     <l>And yet, alas! for Love I dy'd.</l>
+                  </lg>
+                  <lg n="7">
+                     <head>VII.</head>
+                     <l>I was to thee as dear as Life,</l>
+                     <l>My Friends has caused all the stri<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e;</l>
+                     <l>They <gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ought for Wealth and Riches store,</l>
+                     <l>When Love had won the Field before.</l>
+                  </lg>
+                  <lg n="8">
+                     <head>VIII.</head>
+                     <l>'Cause thou did'st not in Wealth abound,</l>
+                     <l>My near Relations on thee frown'd,</l>
+                     <l>And I was posted straight from thee,</l>
+                     <l>And by that means have ruin'd me.</l>
+                  </lg>
+                  <lg n="9">
+                     <head>IX.</head>
+                     <l>They sent me word that thou wert Wed,</l>
+                     <l>Which tydings almost struck me dead;</l>
+                     <l>Unto Dispair I straight did run,</l>
+                     <l>O see what cursed Gold has done!</l>
+                  </lg>
+                  <lg n="10">
+                     <head>X.</head>
+                     <l>Then with a sigh and dismal groan,</l>
+                     <l>She straight departs, leaves me alone;</l>
+                     <l>Where I in sorrow weeping lye,</l>
+                     <l>To think of Parents Cruelty.</l>
+                  </lg>
+                  <lg n="11">
+                     <head>XI.</head>
+                     <l>Sure Friends was never more to blame,</l>
+                     <l>How could they such a Letter frame,</l>
+                     <l>That I another Choice had made?</l>
+                     <l>By this her Life they soon betray'd.</l>
+                  </lg>
+                  <lg n="12">
+                     <head>XII.</head>
+                     <l>She well might be amaz'd, that I</l>
+                     <l>Shou'd guilty be of Perjury,</l>
+                     <l>And leave a lo<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>al Love at last,</l>
+                     <l>When many solemn Vows had past.</l>
+                  </lg>
+                  <lg n="13">
+                     <head>XIII.</head>
+                     <l>She's gone, and I am left behind:</l>
+                     <l>Now since I can no Comfort find,</l>
+                     <l>Come Death and prove a Friend to me,</l>
+                     <l>O let me Dye as well as she.</l>
+                  </lg>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>
+                     <hi>Printed for</hi> P. Brooksby, J. Deacon, J. Blare, <hi>and</hi> J. Back.</p>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <body>
+               <div type="song">
+                  <pb facs="tcp:58375:1"/>
+                  <head>An Excellent New SONG; Call'd, The Hard-hearted Lady, OR, <hi>The young Man dy'd for Love.</hi> Being a Relation of a young Lady that was Engag'd to a Seaman, and Married another while he was a Shipboard.</head>
+                  <opener>
+                     <hi>To an Excellent New Tune.</hi> With Allowance.</opener>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <lg>
+                     <l>FArewell unto all Joy and Pleasure,</l>
+                     <l>Since that my hope is all in vain;</l>
+                     <l>Once, as I thought, I had a Treasure,</l>
+                     <l>But since Ime come home tis gone again:</l>
+                     <l>She whom I adore, affords me no relief,</l>
+                     <l>Therefore, sweet gentle Death, make haste, and ease my grief.</l>
+                  </lg>
+                  <lg>
+                     <l>I am with Sorrow so tormented,</l>
+                     <l>That I cannot endure my Pain;</l>
+                     <l>Nor can I ever be contented,</l>
+                     <l>Since that my <hi>Caelia</hi> does disdain</l>
+                     <l>Me for my true Love, and all my hopes destroy,</l>
+                     <l>Therefore once more I bid adieu to all my Joy.</l>
+                  </lg>
+                  <lg>
+                     <l>Now in some Forrain Land Ile wander,</l>
+                     <l>Until I find some place of rest;</l>
+                     <l>And I my Brains no more will ponder,</l>
+                     <l>What I may do to please her best:</l>
+                     <l>But I'll bid adieu to <hi>Caelia</hi> too unkind,</l>
+                     <l>Until that we each otherin our Graves shall find.</l>
+                  </lg>
+                  <lg>
+                     <l>And when that I am once deceased,</l>
+                     <l>I shall for ever happy be:</l>
+                     <l>I from my Pain shall be released;</l>
+                     <l>But then, alas! poor <hi>Caelia,</hi> she,</l>
+                     <l>As long as she does live, can never happy be</l>
+                     <l>Her Conscience will accuse her, That she Mar<g ref="char:EOLhyphen"/>tyr'd me▪</l>
+                  </lg>
+                  <lg>
+                     <l>Then may she wish she'd not been cruel,</l>
+                     <l>While <hi>I</hi> on Shipboard serv'd the King,</l>
+                     <l>When I did prize her as a Jewel,</l>
+                     <l>She said Love was a foolish thing.</l>
+                     <l>Now may she lament in Sorrow, Grief, &amp; Pain,</l>
+                     <l>And wish with all her heart I were alive again.</l>
+                  </lg>
+                  <lg>
+                     <l>But since that Life, when once departed,</l>
+                     <l>Can never more recover'd be,</l>
+                     <l>Now may she sit down broken-hearted,</l>
+                     <l>And may prepare to follow me</l>
+                     <l>Unto the other World, adue hardhearted Oen,</l>
+                     <l>Fair Maidens all take care your <hi>Sweethearts</hi> a'nt, undone</l>
+                  </lg>
+               </div>
+            </body>
+            <back>
+               <div type="colophon">
+                  <p>
+                     <hi>London, Printed and Sold by</hi> T. Moore.</p>
+               </div>
+            </back>
+         </text>
+      </group>
+   </text>
+</TEI>
